@@ -1,4 +1,4 @@
-# IntervalAlarmClockPI
+# IntervalAlarmClock
 A simple program for setting several alarms at once based on a initial time, number of intervals, and interval length.
 
 To Do:
